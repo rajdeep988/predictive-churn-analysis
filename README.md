@@ -148,7 +148,7 @@ Monthly_Charge_Range AS (CASE WHEN Monthly_Charge < 20 THEN '< 20'
   - **Recall**: 0.92 for non-churners, 0.65 for churners.
   - **F1-Score**: Balanced precision and recall.
 
-![Confusion Matrix](Results/confusion matrix.png)
+![Confusion Matrix](Results/Confusion_Matrix.png)
   
-![Classification Report](Results/Classification Report.png)
+![Classification Report](Results/Classification_Report.png)
 
